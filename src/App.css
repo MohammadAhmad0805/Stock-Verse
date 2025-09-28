@@ -123,7 +123,7 @@
 .left-section a {
   width: 23.5%;
   display: flex;
-  padding: 0.8vw 0.9vw;
+  padding: 0.8vw 0.5vw;
   text-align: center;
   justify-content: center;
   background-color: rgb(99, 79, 247);
